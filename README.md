@@ -25,3 +25,19 @@ user.email=mayuresh14@gmail.com
 
 C:\Users\91987>
 # expr1
+
+C:\Users\91987>mkdir rev1
+
+C:\Users\91987>cd rev1
+
+C:\Users\91987\rev1>git init
+Initialized empty Git repository in C:/Users/91987/rev1/.git/
+
+C:\Users\91987\rev1>git add rev1.txt
+
+C:\Users\91987\rev1>git commit -m "first commit "
+[master (root-commit) daf99af] first commit
+ 1 file changed, 1 insertion(+)
+ create mode 100644 rev1.txt
+
+C:\Users\91987\rev1>
